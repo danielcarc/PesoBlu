@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4B2D4FC3-BE05-4CEA-B7E8-CF23C06799A6"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "464FC925-421F-402D-A4BE-0A3F1384932A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PesoBlu/Moneda/Model/MonedaDataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "calcularValor(for:for:for:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "464FC925-421F-402D-A4BE-0A3F1384932A - 4e8792ce5ea73b95"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PesoBlu.MonedaDataManager.calcularValor(for: Swift.String, for: Swift.Double) -&gt; Swift.String"
+                  moduleName = "PesoBlu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielcarcacha/Desktop/PesoBluApp/PesoBlu/PesoBlu/Moneda/Model/MonedaDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "152">
+               </Location>
+               <Location
+                  uuid = "464FC925-421F-402D-A4BE-0A3F1384932A - 8fda64aaac236422"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PesoBlu.MonedaDataManager.calcularValor(for: Swift.String, for: Swift.Double, completion: (Swift.String) -&gt; ()) -&gt; ()"
+                  moduleName = "PesoBlu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielcarcacha/Desktop/PesoBluApp/PesoBlu/PesoBlu/Moneda/Model/MonedaDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "168">
+               </Location>
+               <Location
+                  uuid = "464FC925-421F-402D-A4BE-0A3F1384932A - ba403a32b65bc63f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PesoBlu.MonedaDataManager.calcularValor(for: Swift.String, for: Swift.Double, completion: (Swift.String, Swift.Double) -&gt; ()) -&gt; ()"
+                  moduleName = "PesoBlu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielcarcacha/Desktop/PesoBluApp/PesoBlu/PesoBlu/Moneda/Model/MonedaDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "168">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
